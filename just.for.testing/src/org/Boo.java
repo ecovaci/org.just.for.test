@@ -15,6 +15,6 @@ public class Boo {
   	 */
 	void f () {
 		
-	}
+	}///
 
 }
