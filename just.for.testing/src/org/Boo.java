@@ -13,8 +13,7 @@ public class Boo {
   	/**
   	 * 
   	 */
-	void f () {
+	void f () {///
 		
-	}///ccc
-
+	}
 }
