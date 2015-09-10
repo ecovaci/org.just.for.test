@@ -5,9 +5,15 @@ package just;
  */
 public class ForTest {
    private String xxx = "xxx";
-    //
-    //
+    
    int i = 1;
+    
+    
+    
+   
+   void f() {
+      
+   }
     int j =2;
     int k =3;
 }
