@@ -5,11 +5,6 @@ package just;
  */
 public class ForTest {
    private String xxx = "xxx";
-    
-   int i = 1;
-    
-    
-    
    
    void f() {
       
