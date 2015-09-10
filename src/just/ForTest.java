@@ -14,6 +14,5 @@ public class ForTest {
    void f() {
       
    }
-    int j =2;
-    int k =3;
+   
 }
