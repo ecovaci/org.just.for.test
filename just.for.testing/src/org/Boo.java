@@ -4,10 +4,10 @@ public class Boo {
 
 
        /**
-        * 
+        * aaaaaaa
         */
   	void g () {
-    
+
   	}
 
   	/**
