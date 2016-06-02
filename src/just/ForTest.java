@@ -6,10 +6,10 @@ package just;
 public class ForTest {
    private String xxx = "xxx";
     
-   //int i = 1;
+   int i = 2;
     
-    //fffff
-    //ggggggggg
+    
+   //boooooo 
    
    void f() {
       
