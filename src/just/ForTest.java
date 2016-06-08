@@ -9,7 +9,7 @@ public class ForTest {
    int i = 2;
     
     
-   //boooooo 2
+   //boooooo merged 2
    
    void f() {
       
