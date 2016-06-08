@@ -9,7 +9,7 @@ public class ForTest {
    int i = 2;
     
     
-   //boooooo 1
+   //boooooo 2
    
    void f() {
       
