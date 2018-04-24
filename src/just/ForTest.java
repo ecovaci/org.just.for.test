@@ -12,7 +12,7 @@ public class ForTest {
    //boooooo merged 2
    
    void f() {
-      
+      //cccccccccccccc
    }
     //
     //
