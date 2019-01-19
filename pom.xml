@@ -22,32 +22,19 @@
                         <checkModificationExclude>pom.xml</checkModificationExclude>
                     </checkModificationExcludes>
                 </configuration>
-            </plugin>
-
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-scm-plugin</artifactId>
                 <dependencies>
                     <dependency>
-                        <groupId>org.codehaus.plexus</groupId>
-                        <artifactId>plexus-utils</artifactId>
-                        <version>2.1</version>
-                    </dependency>
-                    <dependency>
-                        <groupId>org.apache.maven.scm</groupId>
-                        <artifactId>maven-scm-provider-gitexe</artifactId>
-                        <version>1.2</version>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-scm-plugin</artifactId>
+                        <version>1.8.1</version>
                     </dependency>
                 </dependencies>
-                <version>1.0</version>
-
             </plugin>
-
-
         </plugins>
     </build>
 
     <scm>
+        <url>https://github.com/ecovaci/org.just.for.test</url>
         <connection>scm:git:https://ecovaci@github.com/org.just.for.test.git</connection>
         <developerConnection>scm:git:git@github.com:ecovaci/org.just.for.test.git</developerConnection>
       <tag>just-for-test-0.0.1</tag>
