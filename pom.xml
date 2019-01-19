@@ -3,7 +3,7 @@
 
     <groupId>org.hello</groupId>
     <artifactId>just-for-test</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -37,7 +37,7 @@
         <url>https://github.com/ecovaci/org.just.for.test</url>
         <connection>scm:git:https://github.com/ecovaci/org.just.for.test.git</connection>
        <!-- <developerConnection>scm:git:git@github.com:ecovaci/org.just.for.test.git</developerConnection>-->
-    <tag>just-for-test-0.0.4</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
