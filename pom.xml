@@ -3,7 +3,7 @@
 
     <groupId>org.hello</groupId>
     <artifactId>just-for-test</artifactId>
-    <version>y</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -27,8 +27,9 @@
     </build>
 
     <scm>
+        <connection>scm:git:https://ecovaci@github.com/org.just.for.test.git</connection>
         <developerConnection>scm:git:git@github.com:ecovaci/org.just.for.test.git</developerConnection>
-        <tag>y</tag>
+        <tag>0.0.1-SNAPSHOT</tag>
     </scm>
 
 </project>
