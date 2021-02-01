@@ -5,9 +5,3 @@ function FindProxyForURL(url, host) {
         return "PROXY localhost:80";
      }
  }
-
- function Bla () {
- }
-
-  function Bla1 () {
-  }
