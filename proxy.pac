@@ -8,3 +8,6 @@ function FindProxyForURL(url, host) {
 
  function Bla () {
  }
+
+  function Bla1 () {
+  }
